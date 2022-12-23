@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abiliu018@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1rAj9Oeefa9VMCD7_TtUyQlgTvRjvKaQO/edit?usp=sharing&ouid=109204111248911555247&rtpof=true&sd=true](https://docs.google.com/document/d/1rAj9Oeefa9VMCD7_TtUyQlgTvRjvKaQO/edit?usp=sharing&ouid=109204111248911555247&rtpof=true&sd=true)
+- 📄 Find my resume [https://docs.google.com/document/d/1rAj9Oeefa9VMCD7_TtUyQlgTvRjvKaQO/edit?usp=sharing&ouid=109204111248911555247&rtpof=true&sd=true](https://docs.google.com/document/d/1rAj9Oeefa9VMCD7_TtUyQlgTvRjvKaQO/edit?usp=sharing&ouid=109204111248911555247&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
