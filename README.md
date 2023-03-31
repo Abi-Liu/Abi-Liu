@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abi Liu</h1>
 <h3 align="center">A passionate full-stack developer from San Francisco, California.</h3>
 
-- 🌱 I’m currently learning **Express & MongoDB**
+- 🌱 I’m currently working on **FinanceMe** a full-stack financial tracker app
 
 - 👨‍💻 All of my projects are available at [abiliu.netlify.app](abiliu.netlify.app)
 
