@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **FinanceMe** a full-stack financial tracker app
 
-- 👨‍💻 All of my projects are available at [https://abiliu.netlify.app](abiliu.netlify.app)
+- 👨‍💻 All of my projects are available at https://abiliu.netlify.app(abiliu.netlify.app)
 
 - 📫 How to reach me **abiliu018@gmail.com**
 
