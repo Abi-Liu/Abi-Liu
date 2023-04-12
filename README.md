@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abi Liu</h1>
 <h3 align="center">A passionate full-stack developer from San Francisco, California.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abi-liu" alt="abi-liu" /></a> </p>
 
 - 🔭 I’m currently working on [FinanceMe](https://github.com/Abi-Liu/Finance-Me)
 
