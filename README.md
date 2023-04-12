@@ -41,7 +41,7 @@
       <h3 align="center">InstaPic</h3>
       <br />
         <a target="_blank" href="https://abiliu.netlify.app">
-          <img src="https://imgur.com/i4a0H4n.gif" width="100%" alt="InstaPic"/>
+          <img src="./socials.gif" width="100%" alt="InstaPic"/>
         </a>
       <br />
         <p align="center">
