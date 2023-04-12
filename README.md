@@ -7,7 +7,7 @@
 
 - 👯 I’m open to collaborate on **any interesting app ideas**
 
-- 👨‍💻 All of my projects are available at [abiliu.netlify.app](abiliu.netlify.app)
+- 👨‍💻 All of my projects are available at [abiliu.netlify.app](https://abiliu.netlify.app)
 
 - 💬 Ask me about **React and Node**
 
