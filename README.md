@@ -15,6 +15,85 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1rAj9Oeefa9VMCD7_TtUyQlgTvRjvKaQO/edit?usp=sharing&ouid=109204111248911555247&rtpof=true&sd=true](https://docs.google.com/document/d/1rAj9Oeefa9VMCD7_TtUyQlgTvRjvKaQO/edit?usp=sharing&ouid=109204111248911555247&rtpof=true&sd=true)
 
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  <tr>
+</tr>
+   <tr> 
+    <td width="50%" valign="top">
+      <h3 align="center">FinanceMe</h3>
+        <br />
+      <a target="_blank" href="https://abiliu.netlify.app">
+          <img src="https://imgur.com/a/vn38ZFU" width="100%"  alt="FinanceMe"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/Abi-Liu/Finance-Me" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://finance-me.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, MaterialUI, Node, ExpressJS, MongoDB, PlaidAPI, Google Auth </strong> - WebApp to give users an easier time managing their finances.</p>
+    </td>
+<td width="50%" valign="top">
+      <h3 align="center">InstaPic</h3>
+      <br />
+        <a target="_blank" href="https://abiliu.netlify.app">
+          <img src="https://imgur.com/i4a0H4n" width="100%" alt="InstaPic"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/Abi-Liu/Socials" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://web-production-ed5b.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>MongoDB, ExpressJS, EJS, Node, Passport, Cloudinary, Bootstrap 5</strong> - A social media applications where users can share their favorite photos with eachother.</p>
+    </td>
+  </tr>
+  <tr>
+  <tr>  
+    <td width="50%" valign="top">
+      <h3 align="center">Jokr</h3>
+        <br />
+        <a target="_blank" href="https://abiliu.netlify.app">
+          <img src="https://imgur.com/NfATJGP" width="100%" alt="Jokr"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/Abi-Liu/Jokr" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://web-production-d555.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>MongoDB, Express, Node, EJS, Passport, Bootstrap 5</strong> - A web application where users can post their favorite jokes.</p>
+    </td>
+     <!-- <td width="50%" valign="top">
+      <h3 align="center">Sweet Treats App</h3>
+      <br />
+        <a target="_blank" href="https://abiliu.netlify.app">
+          <img src="https://i.imgur.com/Way5GLU.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/jonaaldas/Hackathon-sweet-treats-heroku" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://statuesque-raindrop-35276d.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>  -->
+  </tr>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abi_liu18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abi_liu18" height="30" width="40" /></a>
