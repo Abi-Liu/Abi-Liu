@@ -24,7 +24,7 @@
       <h3 align="center">FinanceMe</h3>
         <br />
       <a target="_blank" href="https://abiliu.netlify.app">
-          <img src="https://imgur.com/agQaEHf" width="100%"  alt="FinanceMe"/>
+          <img src="https://imgur.com/agQaEHf.gif" width="100%"  alt="FinanceMe"/>
         </a>
         <br />
         <p align="center">
@@ -41,7 +41,7 @@
       <h3 align="center">InstaPic</h3>
       <br />
         <a target="_blank" href="https://abiliu.netlify.app">
-          <img src="https://imgur.com/i4a0H4n" width="100%" alt="InstaPic"/>
+          <img src="https://imgur.com/i4a0H4n.gif" width="100%" alt="InstaPic"/>
         </a>
       <br />
         <p align="center">
@@ -61,7 +61,7 @@
       <h3 align="center">Jokr</h3>
         <br />
         <a target="_blank" href="https://abiliu.netlify.app">
-          <img src="https://imgur.com/NfATJGP" width="100%" alt="Jokr"/>
+          <img src="https://imgur.com/NfATJGP.gif" width="100%" alt="Jokr"/>
         </a>
         <br />
         <p align="center">
