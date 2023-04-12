@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abi Liu</h1>
 <h3 align="center">A passionate full-stack developer from San Francisco, California.</h3>
 
-
 - 🔭 I’m currently working on [FinanceMe](https://github.com/Abi-Liu/Finance-Me)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
