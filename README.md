@@ -24,7 +24,7 @@
       <h3 align="center">FinanceMe</h3>
         <br />
       <a target="_blank" href="https://abiliu.netlify.app">
-          <img src="https://imgur.com/agQaEHf.gif" width="100%"  alt="FinanceMe"/>
+          <img src="./assets/financeme.gif" width="100%"  alt="FinanceMe"/>
         </a>
         <br />
         <p align="center">
@@ -41,7 +41,7 @@
       <h3 align="center">InstaPic</h3>
       <br />
         <a target="_blank" href="https://abiliu.netlify.app">
-          <img src="./Socials.gif" width="100%" alt="InstaPic"/>
+          <img src="./assets/Socials.gif" width="100%" alt="InstaPic"/>
         </a>
       <br />
         <p align="center">
