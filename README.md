@@ -24,7 +24,7 @@
       <h3 align="center">FinanceMe</h3>
         <br />
       <a target="_blank" href="https://abiliu.netlify.app">
-          <img src="https://imgur.com/a/vn38ZFU" width="100%"  alt="FinanceMe"/>
+          <img src="https://imgur.com/agQaEHf" width="100%"  alt="FinanceMe"/>
         </a>
         <br />
         <p align="center">
