@@ -16,6 +16,7 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1rAj9Oeefa9VMCD7_TtUyQlgTvRjvKaQO/edit?usp=sharing&ouid=109204111248911555247&rtpof=true&sd=true](https://docs.google.com/document/d/1rAj9Oeefa9VMCD7_TtUyQlgTvRjvKaQO/edit?usp=sharing&ouid=109204111248911555247&rtpof=true&sd=true)
 
 <h1 align="center">Projects</h1>
+<p align = "center"> Please allow for slow loading times due to free hosting!</p>
 <table bordercolor="#66b2b2">
   <tr>
 </tr>
