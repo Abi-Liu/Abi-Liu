@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abi Liu</h1>
 <h3 align="center">A passionate full-stack developer from San Francisco, California.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abi-Liu&label=Profile%20views&color=0e75b6&style=flat" alt="jonaaldas" /> </p>
+
 
 - 🔭 I’m currently working on [FinanceMe](https://github.com/Abi-Liu/Finance-Me)
 
