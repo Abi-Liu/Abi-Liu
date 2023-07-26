@@ -27,7 +27,7 @@
       <h3 align="center">Valorant Finder</h3>
         <br />
       <a target="_blank" href="https://abiliu.netlify.app">
-          <img src="./assets/financeme.gif" width="100%"  alt="FinanceMe"/>
+          <img src="./assets/ValorantFinder.gif" width="100%"  alt="FinanceMe"/>
         </a>
         <br />
         <p align="center">
