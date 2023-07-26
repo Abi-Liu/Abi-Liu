@@ -24,6 +24,23 @@
 </tr>
    <tr> 
     <td width="50%" valign="top">
+      <h3 align="center">Valorant Finder</h3>
+        <br />
+      <a target="_blank" href="https://abiliu.netlify.app">
+          <img src="./assets/financeme.gif" width="100%"  alt="FinanceMe"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/Abi-Liu/Valorant-Team-Finder" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://valorantfinder.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Typescript, React, MaterialUI, Node, ExpressJS, MongoDB, Jest, SuperTest </strong> - An application to track match history statistics and for users to find others to play with</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">FinanceMe</h3>
         <br />
       <a target="_blank" href="https://abiliu.netlify.app">
