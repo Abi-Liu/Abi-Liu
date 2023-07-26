@@ -57,7 +57,10 @@
       </p>
         <p><strong>React, MaterialUI, Node, ExpressJS, MongoDB, PlaidAPI, Google Auth </strong> - WebApp to give users an easier time managing their finances.</p>
     </td>
-<td width="50%" valign="top">
+  </tr>
+  <tr>
+  <tr>  
+    <td width="50%" valign="top">
       <h3 align="center">InstaPic</h3>
       <br />
         <a target="_blank" href="https://abiliu.netlify.app">
@@ -68,15 +71,12 @@
   <a href="https://github.com/Abi-Liu/Socials" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://web-production-ed5b.up.railway.app/" target="_blank">
+  <a href="https://instapic-umux.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>MongoDB, ExpressJS, EJS, Node, Passport, Cloudinary, Bootstrap 5</strong> - A social media applications where users can share their favorite photos with eachother.</p>
+        <p><strong>MongoDB, ExpressJS, EJS, Node, Passport, Cloudinary, Bootstrap 5</strong> - A social media application where users can share their favorite photos with each other.</p>
     </td>
-  </tr>
-  <tr>
-  <tr>  
     <td width="50%" valign="top">
       <h3 align="center">Jokr</h3>
         <br />
@@ -88,7 +88,7 @@
   <a href="https://github.com/Abi-Liu/Jokr" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://web-production-d555.up.railway.app/" target="_blank">
+  <a href="https://jokr-uvzc.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
