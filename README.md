@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abiliu018@gmail.com**
 
-- 📄 Know about my experiences [Download Resume](https://github.com/Abi-Liu/Resume/blob/main/resume.pdf)
+- 📄 Know about my experiences [Download Resume](https://github.com/Abi-Liu/Resume/raw/main/resume.pdf)
 
 <h1 align="center">Projects</h1>
 <p align = "center"> Please allow for slow loading times due to free hosting!</p>
