@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abi-Liu&label=Profile%20views&color=0e75b6&style=flat" alt="jonaaldas" /> </p>
 
 
-- 🔭 I’m currently working on [Valorant Team Finder](https://github.com/Abi-Liu/Valorant-Team-Finder)
+- 🔭 I’m currently working on [Making my own programming language!](https://github.com/Abi-Liu/ToyScript)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
