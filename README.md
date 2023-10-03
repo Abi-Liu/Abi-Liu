@@ -27,7 +27,7 @@
       <h3 align="center">ToyScript</h3>
         <br />
       <a target="_blank" href="https://abiliu.netlify.app">
-          <img src="./assets/a721e4e8a405ead9ece1b2ff5b603027.png" width="100%"  alt="ToyScript"/>
+          <img src="./assets/toyscript1.png" width="100%"  alt="ToyScript"/>
         </a>
         <br />
         <p align="center">
