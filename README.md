@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Making my own programming language!](https://github.com/Abi-Liu/ToyScript)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning [**Data Structures and Algorithms**](https://github.com/Abi-Liu/Algorithms-And-Data-Structures)
 
 - 👯 I’m open to collaborate on **any interesting app ideas**
 
