@@ -2,6 +2,7 @@
 <h3 align="center">A passionate full-stack developer from San Francisco, California.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abi-Liu&label=Profile%20views&color=0e75b6&style=flat" alt="Abi Liu" /> </p>
 
+- 📝 Code samples: [Sample 1](https://github.com/Abi-Liu/ToyScript/blob/main/src/Parsing/parser.js) • [Sample 2](https://github.com/Abi-Liu/Valorant-Team-Finder/blob/main/backend/src/controllers/match.ts) • [Sample 3](https://github.com/medplum/medplum/pull/2614/commits/01c5701d6791993b547da6a1bfbe582f5028f7c0)
 
 - 🔭 I’m currently working on [Making my own programming language!](https://github.com/Abi-Liu/ToyScript)
 
