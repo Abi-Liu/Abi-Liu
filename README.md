@@ -24,6 +24,23 @@
   <tr>
 </tr>
    <tr> 
+      <td width="50%" valign="top">
+      <h3 align="center">BudgetBuddy</h3>
+      <br />
+        <a target="_blank" href="https://abiliu.netlify.app">
+          <img src="./assets/homepage.png" width="100%" alt="BudgetBuddy"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/Abi-Liu/Spendify" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://www.bbapi.online/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, Node/Express, Docker, Postgres, Redis, Websockets, Nginx, AWS </strong> - A new and improved version of my previous app, FinanceMe</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">ToyScript</h3>
         <br />
@@ -41,6 +58,9 @@
       </p>
         <p><strong>Javascript, Jest </strong> - A mini programming language I built from scratch using Javascript. Contains all the core features of a programming language.</p>
     </td>
+  </tr>
+  <tr>
+  <tr>  
     <td width="50%" valign="top">
       <h3 align="center">Valorant Finder</h3>
         <br />
@@ -58,9 +78,6 @@
       </p>
         <p><strong>Typescript, React, MaterialUI, Node, ExpressJS, MongoDB, Jest, SuperTest </strong> - An application to track match history statistics and for users to find others to play with</p>
     </td>
-  </tr>
-  <tr>
-  <tr>  
     <td width="50%" valign="top">
       <h3 align="center">FinanceMe</h3>
         <br />
@@ -77,23 +94,6 @@
   </a>
       </p>
         <p><strong>React, MaterialUI, Node, ExpressJS, MongoDB, PlaidAPI, Google Auth </strong> - WebApp to give users an easier time managing their finances.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">InstaPic</h3>
-      <br />
-        <a target="_blank" href="https://abiliu.netlify.app">
-          <img src="./assets/Socials.gif" width="100%" alt="InstaPic"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/Abi-Liu/Socials" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://instapic-umux.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>MongoDB, ExpressJS, EJS, Node, Passport, Cloudinary, Bootstrap 5</strong> - A social media application where users can share their favorite photos with each other.</p>
     </td>
 <!--     <td width="50%" valign="top">
       <h3 align="center">Jokr</h3>
