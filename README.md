@@ -4,19 +4,15 @@
 
 - 📝 Code samples: [Sample 1](https://github.com/Abi-Liu/ToyScript/blob/main/src/Parsing/parser.js) • [Sample 2](https://github.com/Abi-Liu/Valorant-Team-Finder/blob/main/backend/src/controllers/match.ts) • [Sample 3](https://github.com/medplum/medplum/pull/2614/commits/01c5701d6791993b547da6a1bfbe582f5028f7c0)
 
-- 🔭 I’m currently working on [Making my own programming language!](https://github.com/Abi-Liu/ToyScript)
+- 🔭 I’m currently building a [real-time terminal based chat application with Go](https://github.com/Abi-Liu/TextTunnel)
 
-- 🌱 I’m currently learning [**Data Structures and Algorithms**](https://github.com/Abi-Liu/Algorithms-And-Data-Structures)
-
-- 👯 I’m open to collaborate on **any interesting app ideas**
+- 🌱 I’m currently learning [**Golang**](https://go.dev/)
 
 - 👨‍💻 All of my projects are available at [abiliu.netlify.app](https://abiliu.netlify.app)
 
-- 💬 Ask me about **React and Node**
-
 - 📫 How to reach me **abiliu018@gmail.com**
 
-- 📄 Know about my experiences [Download Resume](https://github.com/Abi-Liu/Resume/raw/main/resume.pdf)
+- 📄 Checkout my resume [here](https://github.com/Abi-Liu/Resume/raw/main/resume.pdf)
 
 <h1 align="center">Projects</h1>
 <p align = "center"> Please allow for slow loading times due to free hosting!</p>
