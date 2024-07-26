@@ -119,7 +119,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bash,react,nodejs,express,redux,mongodb,postgres,mysql,redis,docker,jest,aws,nginx,postman&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,go,spring,bash,react,nodejs,express,redux,mongodb,postgres,mysql,redis,docker,jest,aws,postman&perline=9&theme=dark" />
 
 
 
