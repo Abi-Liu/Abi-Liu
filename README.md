@@ -104,6 +104,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abi-liu&show_icons=true&locale=en&layout=compact" alt="abi-liu" /></p>
+<p><img align="left" src="https://github-readme-stats-mocha-alpha-41.vercel.app/api/top-langs?username=abi-liu&show_icons=true&locale=en&layout=compact&hide=ejs,css,html" alt="abi-liu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abi-liu&show_icons=true&locale=en" alt="abi-liu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-mocha-alpha-41.vercel.app/api?username=abi-liu&show_icons=true&locale=en" alt="abi-liu" /></p>
