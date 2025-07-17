@@ -7,12 +7,13 @@
 
 - 🌱 I’m currently learning [**Golang**](https://go.dev/)
 
+<!---
 - 👨‍💻 All of my projects are available at [abiliu.netlify.app](https://abiliu.netlify.app)
 
 - 📫 How to reach me **abiliu018@gmail.com**
 
 - 📄 Download my resume [here](https://github.com/Abi-Liu/Resume/raw/main/resume.pdf)
-
+--->
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   <tr>
